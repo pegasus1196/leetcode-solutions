@@ -12,7 +12,7 @@ public:
                 ans[x]=nums[i];
                 x+=2;
             }
-            if(nums[i]<0)
+            else
             {
                 ans[y]=nums[i];
                 y+=2;
